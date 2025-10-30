@@ -36,3 +36,15 @@ O foco inicial será na **gestão do projeto**, mas ao longo do tempo poderão s
 
 > 💡 **Nota:** Este repositório é apenas para fins de **teste e aprendizado** de metodologias ágeis e práticas de gestão de projetos.
 
+## 📊 Snapshot — Sprint 1
+
+**Resumo do progresso (atualizado):**
+
+| Status        | Quantidade | Descrição                    |
+|----------------|-------------|-------------------------------|
+| ✅ Done (Concluído) | 0 | Tarefas finalizadas |
+| ⏳ In Progress (Em andamento) | 0 | Tarefas sendo desenvolvidas |
+| 📝 To Do (A fazer) | 5 | Tarefas ainda não iniciadas |
+
+**Progresso total:** 0% concluído  
+**Situação atual:** Todas as 5 tarefas estão na coluna *To Do* aguardando início.
